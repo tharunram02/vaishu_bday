@@ -1,0 +1,25 @@
+{
+  "name": "birthday",
+  "version": "1.0.0",
+  "description": "Birthday greetings..",
+  "main": " ",
+  "scripts": {
+    "server-node": "http-server -p 2112"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charanreddycr/Birthday-Wishes.git"
+  },
+  "keywords": [
+    "Birthday"
+  ],
+  "author": "Charan S",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/charanreddycr/Birthday-Wishes/issues"
+  },
+  "homepage": "https://github.com/charanreddycr/Birthday-Wishes#readme",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
+}
